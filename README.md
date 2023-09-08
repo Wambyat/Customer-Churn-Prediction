@@ -1,5 +1,5 @@
 # MI-Proj
-#### This is the Machiene Intelligence Project (UE20CS302) I have created only KMeans. KNN by [Allu Vineela](https://github.com/alluvineela) and Hierarchical(Churn.ipynb) by [Linson Andrew](https://github.com/linsonandrew) (Files not listed here).
+#### This is the Machiene Intelligence Project (UE20CS302) I have created only KMeans. KNN by [Allu Vineela](https://github.com/alluvineela) and Hierarchical(Churn.ipynb) by [Linson Andrew](https://github.com/linsonandrew) (Files not hosted here).
 
 ### Execution Instructions:
 * Rename the extention to Kmeans to ipynb
